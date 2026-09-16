@@ -44,3 +44,16 @@ ol.steps li { margin-bottom: 0.5rem; }
 }
 nav a { margin-right: 0.85rem; }
 footer { color: var(--muted); font-size: 0.9rem; padding-bottom: 2.5rem; }
+.table-wrap { overflow-x: auto; }
+table.log {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+table.log th, table.log td {
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+  padding: 0.55rem 0.4rem;
+  vertical-align: top;
+}
+table.log th { color: var(--muted); font-weight: 600; }

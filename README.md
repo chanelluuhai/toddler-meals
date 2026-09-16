@@ -16,6 +16,10 @@ After GitHub Pages is enabled: **https://chanelluuhai.github.io/toddler-meals/**
 
 Nothing is published or pushed to Umami until Chanel says so.
 
+## Week-over-week log
+
+The home page has a plain HTML table: week, meal, made?, he thought, notes. No database — Nibble updates the table when Chanel reports likes/skips.
+
 ## Sample recipes
 
 - [Soft scrambled eggs + avocado toast fingers](recipes/soft-scrambled-eggs-avocado.html)
